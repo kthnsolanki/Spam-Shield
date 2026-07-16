@@ -133,20 +133,6 @@ http://localhost:8000
 
 ---
 
-## 🔌 API Endpoints
-
-| Method | Endpoint | Description |
-|---|---|---|
-| POST | `/api/auth/register` | Register a new user |
-| POST | `/api/auth/login` | Login and receive JWT token |
-| POST | `/api/analyze` | Classify a single message |
-| POST | `/api/url` | Analyse a URL for threats |
-| POST | `/api/analyze-file` | Batch scan uploaded file |
-| GET | `/api/history` | Get scan history for logged-in user |
-| DELETE | `/api/history/{id}` | Delete a specific scan record |
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
@@ -191,7 +177,7 @@ tldextract
 
 ## 👨‍💻 Author
 
-Developed as a **University Project — 2025**
+Developed as a **University Project — 2026**
 Department of Computer Science
 
 ---
